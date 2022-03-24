@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hey coders i'm Paulo Brito 👋
 
+### My current stats:
+
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pauloffb20&show_icons=true&hide_border=true&theme=dark" /> 
+<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloffb20&layout=compact&theme=dark&hide_border=true" />
+
+![Snake animation](https://github.com/pauloffb20/pauloffb20/blob/output/github-contribution-grid-snake.svg)
 <!--
-**pauloffb20/pauloffb20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*pauloffb20/pauloffb20* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
